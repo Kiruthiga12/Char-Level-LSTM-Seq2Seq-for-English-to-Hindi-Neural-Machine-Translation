@@ -80,7 +80,7 @@ Preprocessing:
 
   Validation Split: 20%
 
-  Checkpointing enabled to save weights (training_1/cp.ckpt)
+  Checkpointing enabled to save weights ("/kaggle/working/training_1/cp.weights.h5")
 
 ## 🧪 Inference Setup
 
