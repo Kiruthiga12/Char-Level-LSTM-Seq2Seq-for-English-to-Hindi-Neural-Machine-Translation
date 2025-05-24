@@ -12,13 +12,16 @@
 
 ## 📂 Dataset
 
-Source: Hindi-English Truncated Corpus (/kaggle/input/hindi-english-truncated-corpus)
+#### Source:
+  Hindi-English Truncated Corpus (/kaggle/input/hindi-english-truncated-corpus)
 
-Filtering: Only TED source sentences were selected.
+#### Filtering: 
+  Only TED source sentences were selected.
 
-Size: 25,000 parallel sentence pairs sampled randomly.
+#### Size: 
+  25,000 parallel sentence pairs sampled randomly.
 
-Preprocessing:
+#### Preprocessing:
 
   Lowercasing
 
