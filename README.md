@@ -68,7 +68,7 @@ Preprocessing:
 
   Teacher forcing used during training
 
-#### Training
+### Training
 
   Optimizer: RMSprop
 
