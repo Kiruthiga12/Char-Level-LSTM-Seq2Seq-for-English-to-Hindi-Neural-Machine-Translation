@@ -1,8 +1,8 @@
-# Char-Level-LSTM-Seq2Seq-for-English-to-Hindi-Neural-Machine-Translation
+# Character-Level English-to-Hindi Neural Machine Translation (NMT)
 
 ## 🔧 Project Title
 
-### 🔥 Char-Level-LSTM-Seq2Seq-for-English-to-Hindi-Neural-Machine-Translation
+### 🔥Character-Level English-to-Hindi Neural Machine Translation (NMT)
 
 ## 📘 README
 
